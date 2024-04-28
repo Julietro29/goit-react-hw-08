@@ -1,19 +1,9 @@
-.contacts {
-    margin-top: 20px;
+.wrapper {
+    padding: 30px;
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
+    gap: 40px;
+    width: 100%;
     justify-content: center;
-    gap: 20px;
-    padding: 0;
-}
-
-.item {
-    width: 300px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 12px;
-    border-radius: 10px;
-    border: 1px solid var(--secondary-color);
-    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
 }

@@ -1,0 +1,11 @@
+.flexBlock {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.flexText {
+    color: rgb(37, 189, 189);
+}
